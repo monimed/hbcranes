@@ -1,6 +1,4 @@
-.mbr-hamburger--open{
-	background:black !important;
-}
+
 #menu-0 .mbr-navbar__section{
 	background-image: url(../../../assets/images/barra_menu_bricks.jpg)  !important;
 	background-size: 100% auto !important;
@@ -47,7 +45,10 @@ transition: 0.1s ease;
 	height: 50px;
 }
 
-
+.alignDer{
+	text-align: right !important;
+	font-size: 11px !important;
+}
 
 
 
